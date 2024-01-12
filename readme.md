@@ -1,24 +1,12 @@
 ## Hey There!, I am Shitanshu Goyal! I am a full stack web developer.
 
 <p align="center" >
- <a href="https://www.linkedin.com/in/shitanshu-goyal-a86aa0219/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://www.instagram.com/shitanshu_goyal/?next=%2F&hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://www.codechef.com/users/shitanshu_277"><img src="https://img.shields.io/badge/agarwal_keshav-b5651d?style=for-the-badge&logo=codechef&logoColor=white"></a>
-  </a> 
-  <a href="https://www.hackerrank.com/profile/shitanshugoyal"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  </a> 
-  <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  </a>
-  <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  </a>
-  <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  </a>
+ <a href="mailto:shitanshugoyal2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/shitanshu-goyal-a86aa0219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/shitanshu-277-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+ <a href="https://www.codechef.com/users/shitanshu_277"><img src="https://img.shields.io/badge/shitanshu-277-b5651d?style=for-the-badge&logo=codechef&logoColor=white"/></a> 
+ <a href="https://auth.geeksforgeeks.org/user/sg_277"><img src="https://img.shields.io/badge/sg_277-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+ <a href="https://www.instagram.com/shitanshu_goyal/?next=%2F&hl=en" target="_blank"><img src="https://img.shields.io/badge/shitanshu_goyal-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /> </a> 
 </p>
 <br />
 
@@ -55,4 +43,5 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></img>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
   </p>
