@@ -4,7 +4,7 @@
  <a href="mailto:shitanshugoyal2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/shitanshu-goyal-a86aa0219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://leetcode.com/shitanshu-277/"><img src="https://img.shields.io/badge/shitanshu_277-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
- <a href="https://www.codechef.com/users/shitanshu_277"><img src="https://img.shields.io/badge/shitanshu-277-b5651d?style=for-the-badge&logo=codechef&logoColor=white"/></a> 
+ <a href="https://www.codechef.com/users/shitanshu_277"><img src="https://img.shields.io/badge/shitanshu_277-b5651d?style=for-the-badge&logo=codechef&logoColor=white"/></a> 
  <a href="https://auth.geeksforgeeks.org/user/sg_277"><img src="https://img.shields.io/badge/sg_277-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
  <a href="https://www.instagram.com/shitanshu_goyal/?next=%2F&hl=en" target="_blank"><img src="https://img.shields.io/badge/shitanshu_goyal-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /> </a> 
 </p>
